@@ -55,7 +55,7 @@ virtual-event-backend-main/
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/mhd-faraz/virtual-event-backend.git
+git clone https://github.com/Rexter9/virtual-event-backend.git
 cd virtual-event-backend-main
 ```
 
